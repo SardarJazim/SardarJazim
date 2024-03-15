@@ -1,4 +1,4 @@
-# Hello, I'm Sardar Jazim! 👋
+# Hello, I'm Sardar JAzim! 👋
 
 I'm a computer science student with a passion for web development and DevOps engineering. Here's a bit about me:
 
@@ -10,7 +10,7 @@ I'm a computer science student with a passion for web development and DevOps eng
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sardar-jazim-sajid-41022b2b3)
-- Email: [Your Email Address](mailto:sardarjazim1234@gmail.com)
+- LinkedIn: [Sardar JAzim on LinkedIn](https://www.linkedin.com/in/sardar-jazim-sajid-41022b2b3)
+- Email: [sardarjazim1234@gmail.com](mailto:sardarjazim1234@gmail.com)
 
 Let's connect and chat about tech! Whether you have questions, want to collaborate on projects, or just want to say hello, I'm always happy to connect.
