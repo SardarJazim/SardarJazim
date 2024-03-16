@@ -10,11 +10,9 @@
     </a>
   </div>
 
-  <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hello, I'm Sardar JAzim! 👋</h1>
 
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
+  
 </div>
 
 ---
@@ -23,9 +21,11 @@
 
 I am a computer science student, also working as a web developer and DevOps engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Currently, I'm expanding my skills in both web development and DevOps practices.
 
-- :telescope: I'm working as a software engineer and contributing to frontend and backend development for building web applications.
-- :seedling: I'm passionate about exploring new technologies and contributing to the tech community.
-- :zap: In my free time, I enjoy gaming and tackling complex coding algorithms with enthusiasm.
+- 🔭 I’m currently studying computer science and expanding my skills in web development.
+- 💻 As a web developer, I enjoy building and designing websites and web applications.
+- 🛠️ I'm also working as a DevOps engineer, focusing on automating processes and deploying scalable infrastructure.
+- 🌱 I’m constantly learning and exploring new technologies in both web development and DevOps.
+- 💬 Feel free to ask me about web development, DevOps practices, or anything related to computer science!
 
 ---
 
