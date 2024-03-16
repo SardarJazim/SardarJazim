@@ -1,17 +1,42 @@
-# Hello, I'm Sardar Jazim! 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-I'm a computer science student with a passion for web development and DevOps engineering. Here's a bit about me:
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/sardar-jazim-sajid-41022b2b3">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:sardarjazim1234@gmail.com">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
 
-- 🔭 I’m currently studying **computer science** and expanding my skills in web development.
-- 💻 As a **web developer**, I enjoy building and designing websites and web applications.
-- 🛠️ I'm also working as a **DevOps engineer**, focusing on automating processes and deploying scalable infrastructure.
-- 🌱 I’m constantly learning and exploring new technologies in both web development and DevOps.
-  
-- 💬 Feel free to ask me about web development, DevOps practices, or anything related to computer science!
+  <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-## Get in Touch
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+</div>
 
-- LinkedIn: [Sardar Jazim on LinkedIn](https://www.linkedin.com/in/sardar-jazim-sajid-41022b2b3)
-- Email: [sardarjazim1234@gmail.com](mailto:sardarjazim1234@gmail.com)
+---
 
-Let's connect and chat about tech! Whether you have questions, want to collaborate on projects, or just want to say hello, I'm always happy to connect.
+### :man_technologist: About Me :
+
+I am a computer science student, also working as a web developer and DevOps engineer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Currently, I'm expanding my skills in both web development and DevOps practices.
+
+- :telescope: I'm working as a software engineer and contributing to frontend and backend development for building web applications.
+- :seedling: I'm passionate about exploring new technologies and contributing to the tech community.
+- :zap: In my free time, I enjoy gaming and tackling complex coding algorithms with enthusiasm.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <!-- Add your icons here -->
+</div>
+
+---
+
+### :fire: My Stats :
+<!-- Add your GitHub streak stats here -->
+
