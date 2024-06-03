@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I am a **computer science** student, also working as a **web developer and DevOps engineer**. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Currently, I'm expanding my skills in both web development and DevOps practices.
+I am a **computer science** student, also working as a **web developer , Machine Learning Engineer and DevOps engineer**. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Currently, I'm expanding my skills in both web development and DevOps practices.
 
 - 🔭 I’m currently studying **computer science** and expanding my skills in **web development.**
 - 💻 As a **web developer**, I enjoy building and designing **websites** and **web applications**.
